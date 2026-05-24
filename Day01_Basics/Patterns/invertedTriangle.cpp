@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int x=4;
-    int y=7;
+    int x;
+    int y=2x-1;
 for(int i=0;i<y;i++)
 {
     cout<<"*";
